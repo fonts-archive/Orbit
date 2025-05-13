@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Orbit';
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/fonts-archive/Orbit/Orbit-Regular.woff2') format('woff2'),
+      url('https://cdn.jsdelivr.net/gh/fonts-archive/Orbit/Orbit-Regular.woff') format('woff'),
+      url('https://cdn.jsdelivr.net/gh/fonts-archive/Orbit/Orbit-Regular.otf') format('opentype'),
+      url('https://cdn.jsdelivr.net/gh/fonts-archive/Orbit/Orbit-Regular.ttf') format('truetype');
+}
